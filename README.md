@@ -26,4 +26,4 @@ When done using the headset, close the connection to python using:
 emotiv_disconnect
 ```
 
-Raw data should be around 4k and contact quality above above 1k for getting good readings
+Raw data should be around 4k and contact quality above  1k for getting good readings.
